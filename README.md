@@ -1,6 +1,6 @@
-# MindTrack - Mental Health Tracking App
+# Mental Health App
 
-A mobile application built with React Native that helps users track their mental health through mood tracking, daily journaling, and analytics.
+A comprehensive mental health tracking application with both web and mobile interfaces.
 
 ## Features
 
@@ -11,7 +11,7 @@ A mobile application built with React Native that helps users track their mental
 
 ## Tech Stack
 
-- React Native
+- React Native (Mobile)
 - TypeScript
 - React Navigation
 - Vector Icons
@@ -22,16 +22,6 @@ A mobile application built with React Native that helps users track their mental
 2. Install dependencies:
 ```bash
 npm install
-```
-
-3. Run the app:
-- For Android:
-```bash
-npm run android
-```
-- For iOS:
-```bash
-npm run ios
 ```
 
 ## Project Structure
@@ -49,3 +39,6 @@ mobile/
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
+=======
+# Mental-Health-App
+>>>>>>> 327ac6ebc21b103c19792cce74cd3afca799758d
